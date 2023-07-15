@@ -30,7 +30,7 @@ const Login = () => {
 
   const handleClick = () => { //Criado esta função para saber se o botão foi clicado ou não
     if (isValid) {
-      alert('O botão foi clicado');
+      alert('O botão foi clicado com sucesso!');
     }
   };
 
